@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xml:base="https://rcentenom02.github.io/Proyecto/">
+<id>https://rcentenom02.github.io/Proyecto</id>
+<title>Portfolio Profesional RCM atom</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://rcentenom02.github.io/Proyecto//atom.xml"/>
+<author>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<category term="Portfolio Profesional"/>
+<contributor>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+<uri>https://www.linkedin.com/in/otro</uri>
+</contributor>
+<logo>viajes.jpg</logo>
+<entry>
+<id>
+https://estherostos.github.io/proyectofhw/pages/londres.html
+</id>
+<title>Información sobre Londres</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo cutre encontraras casi ninguna información sobre Londres
+</summary>
+<link rel="alternate" href="https://estherostos.github.io/proyectofhw/pages/londres.html"/>
+</entry>
+</feed>
