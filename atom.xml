@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xml:base="https://rcentenom02.github.io/Proyecto/">
+<id>https://rcentenom02.github.io/Proyecto</id>
+<title>Portfolio Profesional RCM atom</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://rcentenom02.github.io/Proyecto//atom.xml"/>
+<author>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<category term="Portfolio Profesional"/>
+<contributor>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+<uri>https://www.linkedin.com/in/centeno-roberto-63925b2a6/</uri>
+</contributor>
+<logo>https://rcentenom02.github.io/Proyecto/imgs/logo.jpeg</logo>
+<entry>
+<id>
+https://rcentenom02.github.io/Proyecto/
+</id>
+<title>Introducción</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo encontraras información relevante sobre mi, mi carrera y mi contacto además de información acerca del Portfolio
+</summary>
+<link rel="alternate" href="https://rcentenom02.github.io/Proyecto/"/>
+</entry>
+<entry>
+<id>
+https://rcentenom02.github.io/Proyecto/pages/FHW/
+</id>
+<title>Fundamentos de Hardware</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo encontrará información, apuntes y actividades sobre la asignatura Fundamentos de Hardware
+</summary>
+<link rel="alternate" href="https://rcentenom02.github.io/Proyecto/pages/FHW/"/>
+</entry>
+<entry>
+<id>
+https://rcentenom02.github.io/Proyecto/pages/GBD/
+</id>
+<title>Gestión de Bases de Datos</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+</author>
+En este artículo encontrará información, apuntes, actividades y proyectos sobre la asignatura Gestión de bases de datos
+</summary>
+<link rel="alternate" href="https://rcentenom02.github.io/Proyecto/pages/GBD/"/>
+</entry>
+<entry>
+<id>
+https://rcentenom02.github.io/Proyecto/pages/ISO/
+</id>
+<title>Implantación de Sistemas Operativos</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo encontrará información, apuntes, actividades y trabajos sobre la asignatura Implantación de Sistemas Operativos
+</summary>
+<link rel="alternate" href="https://rcentenom02.github.io/Proyecto/pages/ISO/"/>
+</entry>
+<entry>
+<id>
+https://rcentenom02.github.io/Proyecto/pages/LMSGI/
+</id>
+<title>Lenguaje de Marcas y Sistemas Gestores de Información</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo encontrará información, apuntes, tutoriales, guias, actividades y proyectos sobre la asignatura Lenguaje de Marcas y Sistemas Gestores de Información
+</summary>
+<link rel="alternate" href="https://rcentenom02.github.io/Proyecto/pages/LMSGI/"/>
+</entry>
+<entry>
+<id>
+https://rcentenom02.github.io/Proyecto/pages/PAR/
+</id>
+<title>Planificación y Administración de Redes</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Roberto Centeno Moreno</name>
+<email>cemoro_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo encontrará información, acceso a los apuntes, actividades y cuestionarios sobre la asignatura Planificación y administración de redes
+</summary>
+<link rel="alternate" href="https://rcentenom02.github.io/Proyecto/pages/PAR/"/>
+</entry>
+</feed>

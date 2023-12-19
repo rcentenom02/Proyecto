@@ -1,0 +1,81 @@
+﻿<rss version="2.0">
+  <channel>
+    <title>Portfolio Profesional RCM</title>
+    <link>https://rcentenom02.github.io/Proyecto</link>
+    <description>Portfolio Profesional con información personal, laboral y académica, así como apuntes, trabajos y proyectos</description>
+    <category>portfolio/laboral/educación</category>
+    <copyright>Roberto Centeno Moreno 1º ASIR - LMSGI</copyright>
+  <image>
+    <url>
+    https://rcentenom02.github.io/Proyecto/imgs/logo.jpeg
+    </url>
+    <title>Portfolio Profesional</title>
+    <link>https://rcentenom02.github.io/Proyecto</link>
+      <width>30</width>
+      <height>30</height>
+  </image>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 15 Dec 2023 12:00:00 +0100</lastBuildDate>
+    <webMaster>cemoro_aliesma2324@iesmedinaazahara.es</webMaster>
+  <item>
+    <title>Fundamentos de Hardware</title>
+    <description>
+    En este artículo encontrará información, apuntes y actividades sobre la asignatura Fundamentos de Hardware
+    </description>
+    <link>
+    https://rcentenom02.github.io/Proyecto/pages/FHW
+    </link>
+    <author>cemoro_aliesma2324@iesmedinaazahara.es</author>
+    <category>Hardware</category>
+    <pubDate>Fri, 15 Dec 2023 12:00:00 +0100</pubDate>
+  </item>
+  <item>
+    <title>Gestión de Bases de Datos</title>
+    <description>
+    En este artículo encontrará información, apuntes, actividades y proyectos sobre la asignatura Gestión de bases de datos
+    </description>
+    <link>
+    https://rcentenom02.github.io/Proyecto/pages/GBD
+    </link>
+    <author>cemoro_aliesma2324@iesmedinaazahara.es</author>
+    <category>Bases de datos</category>
+    <pubDate>Fri, 15 Dec 2023 12:00:00 +0100</pubDate>
+  </item>
+   <item>
+    <title>Implantación de Sistemas Operativos</title>
+    <description>
+    En este artículo encontrará información, apuntes, actividades y trabajos sobre la asignatura Implantación de Sistemas Operativos
+    </description>
+    <link>
+    https://rcentenom02.github.io/Proyecto/pages/ISO
+    </link>
+    <author>cemoro_aliesma2324@iesmedinaazahara.es</author>
+    <category>Sistemas Operativos</category>
+    <pubDate>Fri, 15 Dec 2023 12:00:00 +0100</pubDate>
+  </item>
+  <item>
+    <title>Lenguaje de Marcas y Sistemas Gestores de Información</title>
+    <description>
+    En este artículo encontrará información, apuntes, tutoriales, guias, actividades y proyectos sobre la asignatura Lenguaje de Marcas y Sistemas Gestores de Información
+    </description>
+    <link>
+    https://rcentenom02.github.io/Proyecto/pages/LMSGI
+    </link>
+    <author>cemoro_aliesma2324@iesmedinaazahara.es</author>
+    <category>Lenguaje de Marcas</category>
+    <pubDate>Fri, 15 Dec 2023 12:00:00 +0100</pubDate>
+  </item>
+  <item>
+    <title>Planificación y Administración de Redes</title>
+    <description>
+    En este artículo encontrará información, acceso a los apuntes, actividades y cuestionarios sobre la asignatura Planificación y administración de redes
+    </description>
+    <link>
+    https://rcentenom02.github.io/Proyecto/pages/PAR
+    </link>
+    <author>cemoro_aliesma2324@iesmedinaazahara.es</author>
+    <category>Redes</category>
+    <pubDate>Fri, 15 Dec 2023 12:00:00 +0100</pubDate>
+  </item>
+  </channel>
+</rss>
