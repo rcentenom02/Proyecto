@@ -2,7 +2,7 @@
 <feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xml:base="https://rcentenom02.github.io/Proyecto/">
 <id>https://rcentenom02.github.io/Proyecto</id>
 <title>Portfolio Profesional RCM atom</title>
-<updated>2021-12-21T19:06:00+01:00</updated>
+<updated>2023-12-15T11:00:00+01:00</updated>
 <link rel="alternate" href="https://rcentenom02.github.io/Proyecto/atom.xml"/>
 <author>
 <name>Roberto Centeno Moreno</name>
@@ -20,7 +20,7 @@
 https://rcentenom02.github.io/Proyecto/
 </id>
 <title>Introducción</title>
-<updated>2021-02-12T18:30:00+01:00</updated>
+<updated>2023-12-15T11:00:00+01:00</updated>
 <author>
 <name>Roberto Centeno Moreno</name>
 <email>cemoro_aliesma2324@iesmedinaazahara.es</email>
@@ -35,7 +35,7 @@ En este artículo encontraras información relevante sobre mi, mi carrera y mi c
 https://rcentenom02.github.io/Proyecto/pages/FHW/
 </id>
 <title>Fundamentos de Hardware</title>
-<updated>2021-02-12T19:30:00+01:00</updated>
+<updated>2023-12-15T12:00:00+01:00</updated>
 <author>
 <name>Roberto Centeno Moreno</name>
 <email>cemoro_aliesma2324@iesmedinaazahara.es</email>
@@ -50,7 +50,7 @@ En este artículo encontrará información, apuntes y actividades sobre la asign
 https://rcentenom02.github.io/Proyecto/pages/GBD/
 </id>
 <title>Gestión de Bases de Datos</title>
-<updated>2021-02-12T18:30:00+01:00</updated>
+<updated>2023-12-15T12:00:00+01:00</updated>
 <author>
 <name>Roberto Centeno Moreno</name>
 <email>cemoro_aliesma2324@iesmedinaazahara.es</email>
@@ -65,7 +65,7 @@ En este artículo encontrará información, apuntes, actividades y proyectos sob
 https://rcentenom02.github.io/Proyecto/pages/ISO/
 </id>
 <title>Implantación de Sistemas Operativos</title>
-<updated>2021-02-12T18:30:00+01:00</updated>
+<updated>2023-12-15T12:00:00+01:00</updated>
 <author>
 <name>Roberto Centeno Moreno</name>
 <email>cemoro_aliesma2324@iesmedinaazahara.es</email>
@@ -80,7 +80,7 @@ En este artículo encontrará información, apuntes, actividades y trabajos sobr
 https://rcentenom02.github.io/Proyecto/pages/LMSGI/
 </id>
 <title>Lenguaje de Marcas y Sistemas Gestores de Información</title>
-<updated>2021-02-12T18:30:00+01:00</updated>
+<updated>2023-12-15T12:00:00+01:00</updated>
 <author>
 <name>Roberto Centeno Moreno</name>
 <email>cemoro_aliesma2324@iesmedinaazahara.es</email>
@@ -95,7 +95,7 @@ En este artículo encontrará información, apuntes, tutoriales, guias, activida
 https://rcentenom02.github.io/Proyecto/pages/PAR/
 </id>
 <title>Planificación y Administración de Redes</title>
-<updated>2021-02-12T18:30:00+01:00</updated>
+<updated>2023-12-15T12:00:00+01:00</updated>
 <author>
 <name>Roberto Centeno Moreno</name>
 <email>cemoro_aliesma2324@iesmedinaazahara.es</email>
